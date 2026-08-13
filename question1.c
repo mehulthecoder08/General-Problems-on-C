@@ -11,4 +11,4 @@ int main(){
     printf(" The %d seconds is equal to %d hours, %d minutes and %d seconds.", s, h, t, a);
     return 0;
 }
-//this cod works only for value above 3600//
+//this code works only for value above 3600//
