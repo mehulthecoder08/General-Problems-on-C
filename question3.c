@@ -1,0 +1,15 @@
+//to check whether the given number is even or odd//
+#include <stdio.h>
+int main(){
+    int a;
+    printf(" abhey bsdk a ki value daalna ");
+    scanf("%d", &a);
+    if (a%2==0){
+        printf("Even");
+    }
+     else{
+        printf("odd");
+     }
+
+    return 0;
+}
